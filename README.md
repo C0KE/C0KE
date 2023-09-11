@@ -1,9 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%E5%BF%83%E6%9C%89%E5%A4%A9%E5%9C%B0%EF%BC%8C%E5%B1%B1%E5%A4%A7%E7%9A%84%E7%83%A6%E6%81%BC%E4%B9%9F%E4%B8%8D%E8%BF%87%E4%B8%80%E9%9A%85)](https://git.io/typing-svg)
 
 ## 关于仓库
+
 代码,笔记,资源,文件
 
 ## 关于我 🐱‍👤
+
 🐱‍💻 ID: 可乐 && C0KE
 
 💬 QQ/Wechat: 2269279877
@@ -13,6 +15,7 @@
 📙 日记: https://www.cnblogs.com/redqx/
 
 ## 后期方向 🐱‍🏍
+
 🔭 IOT漏洞利用(❌)
 
 ⚡ 内核提权 (❌)
