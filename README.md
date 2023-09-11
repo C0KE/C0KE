@@ -5,13 +5,20 @@
 
 ## 关于我 🐱‍👤
 🐱‍💻 ID: 可乐 && C0KE
+
 💬 QQ/Wechat: 2269279877
+
 🚩 F1ag: 希君生羽翼，一化北溟鱼
+
 📙 日记: https://www.cnblogs.com/redqx/
+
 ## 后期方向 🐱‍🏍
 🔭 IOT漏洞利用(❌)
+
 ⚡ 内核提权 (❌)
+
 🌱 车联网 (❌)
+
 🐶 渗透是我的梦 (❌)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=C0KE&show_icons=true&theme=radical)
