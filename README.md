@@ -4,4 +4,4 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=C0KE&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=C0KE.visitor-badge&left_color=green&right_color=red)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=C0KE)](https://github.com/ashutosh00710/github-readme-activity-graph)
