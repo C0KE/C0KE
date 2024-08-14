@@ -12,7 +12,7 @@
 
 🚩 F1ag: 希君生羽翼，一化北溟鱼
 
-📙 日记: https://c0ke.shop/
+📙 日记: https://c0ke.shop/  && http://c0ke.github.io/
 
 ## 后期方向 🐱‍🏍
 
